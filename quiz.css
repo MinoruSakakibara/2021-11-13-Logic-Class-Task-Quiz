@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+  }
+
+.quizzes-container {
+    width: 1000px;
+    margin: 50px auto;
+  }
+
+  .btn-score {
+    display: block;
+    margin: 20px auto;
+  }
